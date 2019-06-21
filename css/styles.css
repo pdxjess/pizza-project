@@ -3,28 +3,42 @@
   background-size: cover;
   object-fit: cover;
   border-radius: 5px;
-
 }
 .see-through {
   background: black;
   color: white;
-  font-size: 100px;
+  font-size: 80px;
   font-family: 'Encode Sans Expanded', sans-serif
   text-align: left;
   mix-blend-mode:multiply;
-  max-width: 33%;
+  max-width: 30%;
   max-height: 20%;
   padding: 10px;
   border-radius: 20px;
 }
-
 .jumbotron {
   margin: 2px;
   display:flow-root;
   text-align: center;
-  padding: 2px;
-  background-color: rgba(255, 255, 255, 0.50);
-  color: black;
+  padding: 1px;
+  font-size: 10px;
+  background-color: rgb(0, 77, 0, 0.40);
+  color: white;
   font-family: 'Poiret One';
   letter-spacing: 2px;
+  border-radius: 5px;
+  max-width: 85%;
+  margin-left: 86px;
+}
+.button-menu {
+  margin: 2px 2px;
+}
+.button {
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+  text-transform: lowercase;
+  font-size: 20px;
+  font-family: 'Poiret One';
+  color: black;
 }
