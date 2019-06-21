@@ -15,7 +15,6 @@ _A site that demonstrates knowledge learned in week 4 at Epicodus._
 
 ## Specs
 
-
 ## Known Bugs
 
 _Refresh button does not refresh properly._
