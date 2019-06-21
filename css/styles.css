@@ -1,7 +1,7 @@
 .container {
   background-image: url('../img/jumbotronimage3.jpg');
-  background-size: auto;
-  object-fit: cover;
+  /* background-size: auto; */
+  /* object-fit: cover; */
   border-radius: 5px;
 }
 .see-through {
@@ -27,8 +27,8 @@
   font-family: 'Poiret One';
   letter-spacing: 3px;
   border-radius: 5px;
-  max-width: 89.5%;
-  margin-left: 57px;
+  /* max-width: 89.5%;
+  margin-left: 57px; */
 }
 .button-menu {
   margin: 2px 2px;
@@ -91,4 +91,14 @@ img {
   max-height: 350px;
   object-position: center;
   border-radius: 2px;
+}
+.total {
+  border-radius: 2px;
+  max-width: 30%;
+}
+footer {
+  text-align: center;
+  font-family: 'Poiret One';
+  letter-spacing: 2px;
+  font-size: 10px;
 }
