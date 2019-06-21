@@ -137,3 +137,15 @@ footer {
   padding: 10px;
   text-align: center;
 }
+.happyHour {
+  text-align: center;
+  border-radius: 4px;
+}
+.happyHour h4 {
+  font-size: 80px;
+  font-family: 'Satisfy';
+}
+.happyHour p {
+  font-size: 30px;
+  font-family: 'Poiret One';
+}
