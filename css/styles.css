@@ -3,16 +3,18 @@
   /* background-size: auto; */
   /* object-fit: cover; */
   border-radius: 5px;
+  height: 800px;
 }
-.see-through {
+.container .see-through {
   background: black;
   color: white;
   font-size: 80px;
+  margin-top: 100px;
   font-family: 'Encode Sans Expanded', sans-serif
   text-align: left;
   mix-blend-mode: multiply;
-  max-width: 30%;
-  max-height: 20%;
+  max-width: 25%;
+  max-height: 30%;
   padding: 10px;
   border-radius: 20px;
 }
@@ -31,7 +33,14 @@
   margin-left: 57px; */
 }
 .button-menu {
-  margin: 2px 2px;
+  background-color: white;
+  position: relative;
+}
+.button-menu,
+.button-menu-scrolled {
+  position: fixed;
+  width: 100%;
+  top:0;
 }
 .button {
   display: inline-block;
