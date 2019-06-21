@@ -1,26 +1,23 @@
 .container {
   background-image: url('../img/jumbotronimage3.jpg');
-  /* background-size: auto; */
-  /* object-fit: cover; */
   border-radius: 5px;
   height: 800px;
 }
 .container .see-through {
   background: black;
   color: white;
-  font-size: 80px;
+  font-size: 68px;
   margin-top: 100px;
-  font-family: 'Encode Sans Expanded', sans-serif
+  font-family:'Oxygen' cursive;
   text-align: left;
   mix-blend-mode: multiply;
-  max-width: 25%;
-  max-height: 30%;
+  max-width: 20%;
   padding: 10px;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .jumbotron {
   margin: 2px;
-  display:flow-root;
+  display: flow-root;
   text-align: center;
   padding: .5px;
   font-size: 10px;
@@ -28,12 +25,10 @@
   color: white;
   font-family: 'Poiret One';
   letter-spacing: 3px;
-  border-radius: 5px;
-  /* max-width: 89.5%;
-  margin-left: 57px; */
+  border-radius: 10px;
 }
 .button-menu {
-  background-color: white;
+  background-color: rgb(255, 212, 0);
   position: relative;
 }
 .button-menu,
@@ -49,7 +44,7 @@
   text-transform: lowercase;
   font-size: 25px;
   font-family: 'Poiret One';
-  color: black;
+  color: white;
 }
 .aboutSection h2 {
   font-family: 'Satisfy';
