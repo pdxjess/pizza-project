@@ -106,3 +106,32 @@ footer {
   letter-spacing: 2px;
   font-size: 10px;
 }
+.locationInfo h3 {
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Satisfy';
+  letter-spacing: 3px;
+}
+.locationInfo img {
+  border-radius: 3px;
+  max-width: 350px;
+  max-height: 400px;
+  padding-left: 40px;
+  margin: 5px;
+}
+.locationInfo h4 {
+  padding: 5px;
+  text-align:center;
+  font-family: 'Poiret One';
+  font-size: 50px;
+}
+.locationInfo h5 {
+  font-size: 25px;
+  text-align: center;
+}
+.locationInfo p{
+  font-family: 'Poiret One';
+  font-size: 30px;
+  padding: 10px;
+  text-align: center;
+}
