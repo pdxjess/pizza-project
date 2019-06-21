@@ -1,6 +1,6 @@
 .container {
   background-image: url('../img/jumbotronimage3.jpg');
-  background-size: cover;
+  background-size: auto;
   object-fit: cover;
   border-radius: 5px;
 }
@@ -10,7 +10,7 @@
   font-size: 80px;
   font-family: 'Encode Sans Expanded', sans-serif
   text-align: left;
-  mix-blend-mode:multiply;
+  mix-blend-mode: multiply;
   max-width: 30%;
   max-height: 20%;
   padding: 10px;
@@ -20,15 +20,15 @@
   margin: 2px;
   display:flow-root;
   text-align: center;
-  padding: 1px;
+  padding: .5px;
   font-size: 10px;
-  background-color: rgb(0, 77, 0, 0.40);
+  background-color: rgb(255, 212, 0, 0.90);
   color: white;
   font-family: 'Poiret One';
-  letter-spacing: 2px;
+  letter-spacing: 3px;
   border-radius: 5px;
-  max-width: 85%;
-  margin-left: 86px;
+  max-width: 89.5%;
+  margin-left: 57px;
 }
 .button-menu {
   margin: 2px 2px;
@@ -38,7 +38,29 @@
   width: 33%;
   text-align: center;
   text-transform: lowercase;
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'Poiret One';
   color: black;
+}
+.header2 h2 {
+  font-family: 'Satisfy';
+  text-align: center;
+  font-size: 100px;
+  letter-spacing: 3px;
+}
+.header2 {
+  padding: 1px;
+  margin-top: 20px;
+  margin-bottom: 1px;
+}
+.aboutus {
+  padding: 90px;
+  font-family: 'Poiret One';
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+img {
+  max-width: 875px;
+  max-height: 875px;
+  border-radius: 2px;
 }
