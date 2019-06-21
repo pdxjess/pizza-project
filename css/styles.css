@@ -11,7 +11,7 @@
   font-family:'Oxygen' cursive;
   text-align: left;
   mix-blend-mode: multiply;
-  max-width: 20%;
+  max-width: 25%;
   padding: 10px;
   border-radius: 10px;
 }
@@ -114,9 +114,8 @@ footer {
 }
 .locationInfo img {
   border-radius: 3px;
-  max-width: 350px;
+  max-width: 300px;
   max-height: 400px;
-  padding-left: 40px;
   margin: 5px;
 }
 .locationInfo h4 {
