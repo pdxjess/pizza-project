@@ -1,0 +1,30 @@
+.container {
+  background-image: url('../img/jumbotronimage3.jpg');
+  background-size: cover;
+  object-fit: cover;
+  border-radius: 5px;
+
+}
+.see-through {
+  background: black;
+  color: white;
+  font-size: 100px;
+  font-family: 'Encode Sans Expanded', sans-serif
+  text-align: left;
+  mix-blend-mode:multiply;
+  max-width: 33%;
+  max-height: 20%;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.jumbotron {
+  margin: 2px;
+  display:flow-root;
+  text-align: center;
+  padding: 2px;
+  background-color: rgba(255, 255, 255, 0.50);
+  color: black;
+  font-family: 'Poiret One';
+  letter-spacing: 2px;
+}
