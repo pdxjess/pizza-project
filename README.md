@@ -19,7 +19,6 @@ _A site that demonstrates knowledge learned in week 4 at Epicodus._
 | User can select pizza size | User clicks on checkbox | The pizza size they desire is selected |
 | User can add toppings to the pizza | User clicks multiple checkboxs | All desired toppings are selected |
 | User can get total of order | User selects size and toppings and clicks total | Total is shown | 
->>>>>>> master
 
 ## Known Bugs
 
