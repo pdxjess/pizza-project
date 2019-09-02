@@ -14,8 +14,6 @@ _A site that demonstrates knowledge learned in week 4 at Epicodus._
 * Open the file and view in the web browser of preference.
 
 ## Specs
-<<<<<<< HEAD
-=======
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
 | User can select pizza size | User clicks on checkbox | The pizza size they desire is selected |
