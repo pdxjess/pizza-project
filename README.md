@@ -5,8 +5,15 @@
 #### By _Jessica Doss_
 
 ## Description
-_A site that demonstrates knowledge learned in week 4 at Epicodus._
+_This site was created to demonstrate skills learned in JavaScript. The user should be able to put in a custom order for pizza and get a returned value._
 
+## Site Design
+
+_I wanted to make this site feel like a real world application that you would visit. Portland is full of local businesses and it was important to convey that in my design._
+
+![Main Page](./img/mainpageshot.png)
+
+![Order Page](./img/orderpageshot.png)
 ## Setup/Installation Requirements
 
 * Clone this repository "https://github.com/pdxjess/pizza-project"
@@ -14,12 +21,16 @@ _A site that demonstrates knowledge learned in week 4 at Epicodus._
 * Open the file and view in the web browser of preference.
 
 ## Specs
-=======
+
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
 | User can select pizza size | User clicks on checkbox | The pizza size they desire is selected |
 | User can add toppings to the pizza | User clicks multiple checkboxs | All desired toppings are selected |
-| User can get total of order | User selects size and toppings and clicks total | Total is shown | 
+<<<<<<< HEAD
+| User can get total of order | User selects size and toppings and clicks total | Total is shown |
+=======
+| User can get total of order | User selects size and toppings and clicks total | Total is shown |
+
 
 ## Known Bugs
 
